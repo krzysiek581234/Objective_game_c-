@@ -1,4 +1,4 @@
-# Objective_game_c-
+# Objective_game_c++
 
 Celem projektu jest implementacja programu o charakterze symulatora wirtualnego świata,
 który ma mieć strukturę dwuwymiarowej kraty o dowolnym, zadanym przez użytkownika
